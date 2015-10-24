@@ -3,9 +3,8 @@ title: FPLB
 description: function programming user group
 keywords: fP , functional programming
 author: karim amer , david nuon
-baseurl: "fplongbeach.com" # the subpath of your site, e.g. /blog/
-domain_name: 'http://fplongbeach.com'
-baseurl: /
+baseurl: "/" # the subpath of your site, e.g. /blog/
+domain_name: 'http://www.fplongbeach.com'
 aboutPage: true
 markdown: redcarpet
 highlighter: pygments
