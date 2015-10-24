@@ -4,8 +4,7 @@ description: function programming user group
 keywords: fP , functional programming
 author: karim amer , david nuon
 baseurl: "/" # the subpath of your site, e.g. /blog/
-domain_name: 'http://www.fplongbeach.com'
-aboutPage: true
+domain_name: 'http://www.fplongbeach.com/'
 markdown: redcarpet
 highlighter: pygments
 paginate: 20
