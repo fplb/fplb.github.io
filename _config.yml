@@ -1,7 +1,12 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: FPLB
+description: function programming user group
+keywords: fP , functional programming
+author: karim amer , david nuon
 baseurl: "fplongbeach.com" # the subpath of your site, e.g. /blog/
-url: "www.fplongbeach.com" # the base hostname & protocol for your site
+domain_name: 'http://fplongbeach.com'
+baseurl: /
+aboutPage: true
+markdown: redcarpet
+highlighter: pygments
+paginate: 20
