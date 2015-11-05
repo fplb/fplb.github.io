@@ -1,8 +1,8 @@
 # Site settings
 title: FPLB
-description: function programming user group
-keywords: fP , functional programming
-author: karim amer , david nuon
+description: Functional Programming in Long Beach
+keywords: FP , functional programming, long beach, lisp, haskell, clojure, code, meetup, usergroup
+author: karim amer , David Nuon
 baseurl: "/" # the subpath of your site, e.g. /blog/
 domain_name: 'http://www.fplongbeach.com/'
 markdown: redcarpet

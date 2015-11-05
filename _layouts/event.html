@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="description" content="{{ site.description }}" />
+        <meta name="keywords" content="{{ site.keywords }}" />
+        <meta name="author" content="{{ site.author }}" />
+        <link rel="shortcut icon" href="img/favicon.ico">
+
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+
+
+    <body>
+       <div class="container">
+           <div class="row">
+
+               <div class="col-md-12">
+                   <header>
+    
+                <a href="/" class="link">Back</a>
+    
+               </header>
+               </div>
+           </div>
+       </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+            
+                    <div class="sidebar-content">
+                    <div class="tile tile-full">
+                        <div class="poster"
+                            style="background-image:url({{page.image}})" 
+                        ></div>
+
+                    </div>
+
+                    </div> 
+                </div>
+                <div class="col-md-8">
+
+                <h1>{{ page.title }}</h1>
+
+                <div class="meta">
+                    <span class="author">
+                        {{ page.author }}
+                    </span>
+
+                    <span class="date">
+                        {{ page.date }}
+                    </span>
+                </div>
+
+                {{ page.content | markdownify }}
+                </div>
+            </div>
+
+            <footer class="row">
+                <div class="col-md-12">
+                    <p>
+                        &copy; FPLB
+                    </p>
+                </div>              
+            </footer>
+        </div>      
+    </body>
+</html>

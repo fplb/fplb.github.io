@@ -1,13 +1,13 @@
 ---
-title:  "Lisp"
+title:  "All about LISP!"
 subtitle: "The simple design"
 author: "Karim Amer"
 avatar: "img/authors/wferr.png"
 image: "http://photos4.meetupstatic.com/photos/event/1/a/6/8/highres_441606760.jpeg"
-date:   2015-04-20 12:12:12
+date:   2015-10-20 12:12:12
+layout: "event"
 ---
 
-### Lisp?
 ![Alt text](https://imgs.xkcd.com/comics/lisp.jpg)
 have you heard about lisp ? have you wondered why people are interested in it ? let's try to figure that out together and try to understand the weeds of lisp and if we have time we will try to build a lisp interpreter  
 

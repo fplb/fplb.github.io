@@ -1,0 +1,102 @@
+header {
+	padding: 20px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+p {
+	line-height: 2em;
+}
+
+	footer {text-align: center;
+			padding: 40px 0;}
+
+.meta {
+	padding: 20px 0;
+}
+
+.meta .author,
+.meta .date,
+.link {
+	display: inline-block;;
+	min-width: 200px;
+	padding: 0 10px 0 0;
+}
+
+
+		.tile {
+			height: 310px;
+			margin: 20px auto 0 auto;
+			border:1px solid #ddd;
+			background: #fff;
+			max-width: 210px;
+
+
+		}
+
+		.tile-full {
+			margin:0;
+			height: 380px;
+			max-width: 273px;
+		}
+
+
+
+		.tile .poster {
+			width: 100%;
+			height: 80%;
+			background-size: cover;
+			background-position: center center;
+			overflow: hidden;
+		}
+
+		.tile-full .poster {
+			height: 380px;
+
+		}
+		
+		.tile .info {
+			height: 20%;
+		}
+
+		.tile .info h2 {
+			font-weight: normal !important;
+			padding: 5px 10px;
+			margin: 0;
+
+			font-size: 1.4em;
+		}
+
+		.tile .info .date {
+			padding: 5px 10px;
+			margin: 0;
+			color:#aaa;
+		}
+
+		.tile .info h2 a {
+			color: #333;
+			font-weight: bold;
+		}
+	
+		.sidebar-content {
+			margin-top: 20px;
+		}
+
+		nav ul {
+			padding: 0;
+			margin: 0;
+		}
+
+		nav ul li {
+			border-bottom: 1px solid #ddd;
+			list-style: none;
+
+		}
+
+		nav ul li a {
+			display: block;
+			padding: 6px 0;
+		}
+
+		nav ul li a:hover {
+			background: #ddd;
+		}
