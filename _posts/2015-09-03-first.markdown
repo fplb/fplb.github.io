@@ -1,0 +1,37 @@
+---
+title:  "FP?"
+subtitle: "The simple design"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "/img/first.png"
+date:   2015-09-03 12:12:12
+layout: "event"
+---
+
+FPLB is monthly get together for functional programming enthusiasts. Regardless of your choice of language or experience, if you're interested in controlling side effects and a little lambda calculus (or if have no idea what those mean), come on in!
+
+The goal of this meetup is to discuss functional programming and experiment with new tools and ideas.
+
+Here's what we're going to be talking about:
+
+## A Chip8 Emulator in Haskell
+
+David Nuon will discuss writing a simple VM (Chip8) in Haskell and demoing some games written for it. It’ll cover a bird’s eye view of how to approach writing an emulator and he will speak a little bit on the history of Chip8. 
+
+## Getting to the Roots of GUIs with Elm
+
+Texas Toland will be giving a talk about Elm and how to use it for building applications.
+
+
+________________________________________________
+
+
+## About David
+
+During the day, David is a web developer that dishes out Javascript, Python and PHP. At night? He writes C and Haskell to dissect old Game Boy roms and for enhancing his enjoyment of card games. Is he the hero Long Beach deserves, but no one needs? Probably.
+
+
+## About Texas—Not the State
+
+Texas uses a number of languages either consulting front end development or in open source including JavaScript, CoffeeScript, ActionScript, Ruby, Python, C++, Swift, Java, Scala, and Elm for fun. He recently authored Elm build integration for Sublime Text using Python. He has programmed professionally since 2007 and enjoyed FP since 2010. He prefers the ocean to programming but is available for remote work.
+

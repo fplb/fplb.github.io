@@ -1,0 +1,15 @@
+---
+title:  "Clojure GameDev"
+subtitle: "Talking about Clojure Game Programming and Abstract Data Types"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "/img/lisp2.jpg"
+date:   2015-11-18 19:00:00
+layout: "event"
+---
+
+**(More details will be posted closer to the event)**
+
+Karim Amer: Algebraic Data Types and You
+
+David Nuon: Game Development in Clojure, you don't need no OOP
