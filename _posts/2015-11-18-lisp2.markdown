@@ -15,11 +15,11 @@ how a type system can change the way you think about programming.
 
 There will be a live coding section of the meetup, so bring a laptop! 
 
-## Karim Amer 
-Algebraic Data Types and You
+## Algebraic Data Types and You
+Speaker: Karim Amer 
 
-## David Nuon 
-Game Development in Clojure: OOP vs No-OOP
+## Game Development in Clojure: OOP vs No-OOP
+Speaker: David Nuon 
 
 http://fplongbeach.org/
 
