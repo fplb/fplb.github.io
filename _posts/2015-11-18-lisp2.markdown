@@ -8,8 +8,18 @@ date:   2015-11-18 19:00:00
 layout: "event"
 ---
 
-**(More details will be posted closer to the event)**
+[Meetup Link](http://www.meetup.com/Uncoded/events/226560702/)
 
-Karim Amer: Algebraic Data Types and You
+This time we're going to go a bit deeper in our discussion of LISPs and talk about 
+how a type system can change the way you think about programming.
 
-David Nuon: Game Development in Clojure, you don't need no OOP
+There will be a live coding section of the meetup, so bring a laptop! 
+
+## Karim Amer 
+Algebraic Data Types and You
+
+## David Nuon 
+Game Development in Clojure: OOP vs No-OOP
+
+http://fplongbeach.org/
+
