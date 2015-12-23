@@ -1,0 +1,22 @@
+---
+title:  "Arduino Functional Reactive Programming"
+subtitle: "Low-level Functional Programming"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "/img/arduino.png"
+date:   2016-01-07 12:12:12
+layout: "event"
+---
+
+[Meetup Link](http://www.meetup.com/Uncoded/events/225519822/)
+
+235 E. Broadway, Suite 506, Long Beach, CA 
+7PM - 10PM
+
+Happy 2016 everyone!
+
+In this FPLB we're going to get away from the world of programming language theory and talk about hardware. Functional reactive programming is very useful for UI and games, but how about in embedded applications? There's a lot happening in that space so let's talk about it!
+
+We're also going conclude our series on Clojure with showing how it can be embedded in a Android application.
+
+P.S If you're interested in giving a talk at FPLB, contact david@davidnuon.com to schedule.
