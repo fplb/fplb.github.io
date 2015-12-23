@@ -1,5 +1,5 @@
 ---
-title:  "Arduino Functional Reactive Programming"
+title:  "Arduino FRP"
 subtitle: "Low-level Functional Programming"
 author: "David Nuon"
 avatar: "img/authors/wferr.png"
