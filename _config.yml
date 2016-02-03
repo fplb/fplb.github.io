@@ -8,4 +8,5 @@ domain_name: 'http://www.fplongbeach.com/'
 markdown: redcarpet
 highlighter: pygments
 paginate: 20
+future: true
 gems: [jekyll-paginate]
