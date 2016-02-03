@@ -1,0 +1,31 @@
+---
+title:  "REST APIs in Haskell with Scotty"
+subtitle: "Beam me up, Scotty"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "/img/arduino.png"
+date:   2016-02-18 12:12:12
+layout: "event"
+---
+
+[Meetup Link](http://www.meetup.com/Uncoded/events/226263564/)
+
+February 18th, 2016
+235 E. Broadway, Suite 506, Long Beach, CA 
+7PM - 10PM
+
+In this FPLB, we're talking about implementing REST APIs in Haskell with Scotty. This is going to be a workshop so bring a laptop!
+
+Topics for discussion:
+
+- What is a REST API? 
+- Creating and reading objects from a database in Haskell. 
+- How to integrate your API with different platforms 
+- Comparing Scotty to other frameworks such as Sinatra or Flask.
+
+Before the workshop, be sure to install Vagrant and Virtualbox!
+
+[https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
+[https://www.virtualbox.org/wiki/Downloads](https://www.vagrantup.com/downloads.html)
+
+If you're attending and especially if you've been to prior FPLBs, please fill out this survey: [https://david624.typeform.com/to/wLYWYp](https://david624.typeform.com/to/wLYWYp)
