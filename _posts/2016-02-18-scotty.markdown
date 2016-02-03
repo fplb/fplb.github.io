@@ -4,7 +4,7 @@ subtitle: "Beam me up, Scotty"
 author: "David Nuon"
 avatar: "img/authors/wferr.png"
 image: "/img/arduino.png"
-date:   2016-02-18 12:12:12
+date:   2016-02-18 19:00:00
 layout: "event"
 ---
 
