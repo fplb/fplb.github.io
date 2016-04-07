@@ -1,0 +1,13 @@
+---
+title:  "Lisp"
+subtitle: "Implementing a LISP"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "https://cs.gmu.edu/~sean/lisp/lisplogo_warning_256.png"
+date:   2016-04-21 19:00:00
+layout: "event"
+---
+
+[Meetup Link](http://www.meetup.com/Uncoded/events/229508171/)
+
+We will continue are talking and discussing programming languages this time we will be talking about LISP and its various implementations and will walk through our own simple implementation of LISP.
