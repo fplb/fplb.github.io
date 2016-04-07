@@ -1,0 +1,28 @@
+---
+title:  "BASIC"
+subtitle: "Code club, BASIC"
+author: "David Nuon"
+avatar: "img/authors/wferr.png"
+image: "http://photos2.meetupstatic.com/photos/event/d/1/5/d/600_447233597.jpeg"
+date:   2016-03-17 19:00:00
+layout: "event"
+---
+
+[Meetup Link](http://www.meetup.com/Uncoded/events/229018487/)
+
+March 17th, 2016
+235 E. Broadway, Suite 506, Long Beach, CA
+7PM - 10PM
+
+BASIC: Then and Now.
+Speaker: David Nuon
+
+We're doing something different this time around :)  
+
+Code Club is an FPLB event where we examine a programming language and discuss its history, usage and implementation. If you're interested with how programming languages work and how they're made, this is the event for you!
+
+This time we're going to talk about an oldie but goodie, BASIC. BASIC is simple, easy to learn and easy to implement. Because of this, it spread and defined a generation of programmers.
+
+We're going to discuss BASIC's creation, where it is today and walk through an ES6 implementation of BASIC.
+
+We're going to have an interactive demo, so bring a laptop!
