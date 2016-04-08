@@ -1,6 +1,6 @@
 ---
 title:  "BASIC"
-subtitle: "Code club, BASIC"
+subtitle: "Code Club, BASIC"
 author: "David Nuon"
 avatar: "img/authors/wferr.png"
 image: "http://photos2.meetupstatic.com/photos/event/d/1/5/d/600_447233597.jpeg"
